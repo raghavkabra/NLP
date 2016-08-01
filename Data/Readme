@@ -1,1 +1,9 @@
+Hacker News is a community where anyone can submit articles, and others can upvote those articles. The articles with the most upvotes make it to the front page, where they are more visible to the community.
+
+This dataset consists of submissions to Hacker News from 2006 to 2015. Our data only has four columns:
+
+submission_time -- when the article was submitted.
+upvotes -- number of upvotes the article got.
+url -- the base url of the article.
+headline -- the headline of the article.
 
