@@ -1,0 +1,4 @@
+I have used the article headlines to predict the number of upvotes the articles received. Since upvotes are an indicator of popularity, It will help to dicover which types of articles tend to be the most popular.
+
+In order to make predictions,I have  trained a linear regression model on a numerical representation of each headline.
+
